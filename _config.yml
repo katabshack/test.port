@@ -1,0 +1,17 @@
+# ============================
+#   Configuration du Portfolio
+# ============================
+
+# Nom du site
+title: "Portfolio de Test – Placide Kataba"
+
+# Petite description affichée dans les métadonnées
+description: "Portfolio de test pour expérimenter la structure d’un site personnel."
+
+# Activer GitHub Pages
+theme: jekyll-theme-cayman
+# (Tu peux remplacer par : jekyll-theme-minimal / jekyll-theme-slate / jekyll-theme-modernist)
+
+show_downloads: true
+
+lang: fr
